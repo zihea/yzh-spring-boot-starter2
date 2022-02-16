@@ -1,0 +1,19 @@
+{
+  "groups": [
+    {
+      "name": "yzh.hello",
+      "type": "com.yang.HelloProperties",
+      "sourceType": "com.yang.HelloProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "yzh.hello.name",
+      "type": "java.lang.String",
+      "description": "用户名.",
+      "sourceType": "com.yang.HelloProperties",
+      "defaultValue": "default"
+    }
+  ],
+  "hints": []
+}
